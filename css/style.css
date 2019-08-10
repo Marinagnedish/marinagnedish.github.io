@@ -1,7 +1,7 @@
 #header {
     position: absolute;
     border: 2px;
-    border-color: #ff0000;
+    border-color: #22a3d6;
     border-style: dashed;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .red_text {
-  color : #ff0000;
+  color : #1d13b3;
 }
 
 #page_content {
